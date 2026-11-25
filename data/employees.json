@@ -1,0 +1,45 @@
+
+{
+    "employees": [
+        {
+            "id": 101,
+            "name": "Afsana",
+            "department": "IT",
+            "salary": 35000,
+            "active": true,
+            "skills": ["Python", "SQL"]
+        },
+        {
+            "id": 102,
+            "name": "Rahul",
+            "department": "HR",
+            "salary": 25000,
+            "active": true,
+            "skills": ["Communication", "Excel"]
+        },
+        {
+            "id": 103,
+            "name": "Priya",
+            "department": "IT",
+            "salary": 45000,
+            "active": false,
+            "skills": ["Python", "Java"]
+        },
+        {
+            "id": 104,
+            "name": "Arun",
+            "department": "Finance",
+            "salary": 30000,
+            "active": true,
+            "skills": ["Excel", "Accounting"]
+        },
+        {
+            "id": 105,
+            "name": "Sara",
+            "department": "IT",
+            "salary": 50000,
+            "active": true,
+            "skills": ["Python", "Machine Learning"]
+        }
+    ]
+}

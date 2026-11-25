@@ -1,0 +1,8 @@
+id,name,department,salary,active
+101,Afsana,IT,35000,True
+102,Rahul,HR,25000,True
+103,Priya,IT,45000,False
+104,Arun,Finance,30000,True
+105,Sara,IT,50000,True
+106,Kiran,HR,28000,False
+107,Meena,Finance,40000,True

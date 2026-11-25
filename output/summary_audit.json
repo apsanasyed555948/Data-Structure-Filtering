@@ -1,0 +1,65 @@
+{
+    "total_active_employees": 9,
+    "average_salary": 35555.555555555555,
+    "department_summary": {
+        "IT": 4,
+        "HR": 2,
+        "Finance": 3
+    },
+    "employees": [
+        {
+            "id": 101,
+            "name": "Afsana",
+            "department": "IT",
+            "salary": 35000
+        },
+        {
+            "id": 102,
+            "name": "Rahul",
+            "department": "HR",
+            "salary": 25000
+        },
+        {
+            "id": 104,
+            "name": "Arun",
+            "department": "Finance",
+            "salary": 30000
+        },
+        {
+            "id": 105,
+            "name": "Sara",
+            "department": "IT",
+            "salary": 50000
+        },
+        {
+            "id": 101,
+            "name": "Afsana",
+            "department": "IT",
+            "salary": 35000
+        },
+        {
+            "id": 102,
+            "name": "Rahul",
+            "department": "HR",
+            "salary": 25000
+        },
+        {
+            "id": 104,
+            "name": "Arun",
+            "department": "Finance",
+            "salary": 30000
+        },
+        {
+            "id": 105,
+            "name": "Sara",
+            "department": "IT",
+            "salary": 50000
+        },
+        {
+            "id": 107,
+            "name": "Meena",
+            "department": "Finance",
+            "salary": 40000
+        }
+    ]
+}
